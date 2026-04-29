@@ -95,5 +95,3 @@ cargo test
 - Script templates show how funds are locked on-chain.
 
 ---
-
-If you want a JSON schema, additional formats, or deep dives into each address type, ask and we’ll expand it.
